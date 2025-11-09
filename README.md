@@ -19,7 +19,6 @@
 ---
 ## 🎓 Education
 <section>
-    <h2>Education</h2>
     <div class="education-list">
       <div class="education-item">
         <strong>B.Tech</strong> - Presidency University, Bengaluru.<br>
