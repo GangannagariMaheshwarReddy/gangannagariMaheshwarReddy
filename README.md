@@ -18,7 +18,7 @@
 
 ---
 ## 🎓 Education
-<section class="card education" id="education">
+<section>
     <h2>Education</h2>
     <div class="education-list">
       <div class="education-item">
