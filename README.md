@@ -17,6 +17,23 @@
 - 🏆 Always exploring new tech and contributing to open-source  
 
 ---
+## 🎓 Education
+<section class="card education" id="education">
+    <h2>Education</h2>
+    <div class="education-list">
+      <div class="education-item">
+        <strong>B.Tech</strong> - Presidency University, Bengaluru.<br>
+        <em>Course:</em> Electronics and Communication Engineering<br>
+        <em>CGPA:</em> 7.56
+      </div>
+      <div class="education-item">
+        <strong>Intermediate</strong> - Sri Chaitanya jr College, Vijayawad.<br>
+        <em>Course:</em> MPC<br>
+        <em>Percentage:</em> 93.5%
+      </div>
+    </div>
+  </section>
+
 
 ## ⚒️ Tech Stack & Tools  
 
