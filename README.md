@@ -97,7 +97,7 @@
 > &nbsp; 
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gangannagarimaheshwarreddy&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=GangannagariMaheshwarReddy&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gangannagarimaheshwarreddy&layout=compact&theme=radical)
 
