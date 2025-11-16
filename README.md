@@ -87,6 +87,14 @@
 > [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/gangannagarimaheshwarreddy/React-StopWatch)
 > &nbsp;
 > [![Live View](https://img.shields.io/badge/Live%20View-%23FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://mystopwatch18.netlify.app/)
+
+🗳️ **[Advanced Voting App](https://github.com/gangannagarimaheshwarreddy/voting-app)**  
+> ✨ A modern and interactive **single-page Voting Application** built using **React**  
+> 🚀 Minimal UI and real-time performance tracking.
+> 
+> [![GitHub Repo](https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github)](https://github.com/gangannagarimaheshwarreddy/voting-app)
+> &nbsp;
+> [![Live View](https://img.shields.io/badge/Live%20View-%23FF5733?style=for-the-badge&logo=vercel&logoColor=white)](https://advancedvotingapp.netlify.app/)
 ---
 
 ## 🧠 Coding Profiles
