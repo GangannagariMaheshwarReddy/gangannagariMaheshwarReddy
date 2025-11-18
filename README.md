@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/> Hi there, I'm **G. Maheshwar Reddy!**
 
 💻 **Full Stack Developer | Django | Spring Boot | MySQL | React**  
-🚀 Passionate about building **scalable, intuitive, and impactful digital products** that combine backend strength with elegant frontend design.
+🚀 Passionate about building **scalable, intuitive, and impactful digital products** that combine backend strength with elegant frontend design...
 
 > [![View Portfolio](https://img.shields.io/badge/View%20Portfolio-%23007ACC?style=for-the-badge&logo=vercel&logoColor=white)](https://maheshwarreddyportfolio.netlify.app/)
 
