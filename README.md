@@ -11,7 +11,7 @@
 
 ## 🧠 About Me  
 - 🧩 Experienced in **Java | Python | SQL | HTML | CSS | JavaScript**
-- 🌱 Currently learning and integrating **React + Django**  
+ 
 - 💡 Love solving problems through **clean, efficient code**   
 - 🎯 Goal: To become a **Software Engineer** capable of delivering production-ready, full-stack applications  
 - 🏆 Always exploring new tech and contributing to open-source  
